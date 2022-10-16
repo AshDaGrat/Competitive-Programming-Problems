@@ -1,3 +1,5 @@
+#https://codeforces.com/gym/403917/problem/B
+
 d = int(input())
 x = []
 for i in range(d):

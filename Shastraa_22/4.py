@@ -1,3 +1,8 @@
+#https://codeforces.com/gym/403917/problem/D
+
+#Works but I have no clue why
+#doesnt work when I try to make it make sense
+
 r, c = [int(i) for i in input().split()]
 arr = []
 for i in range(r):

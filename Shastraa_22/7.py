@@ -1,3 +1,7 @@
+#https://codeforces.com/gym/403917/problem/G
+
+#did not finish the program in time
+
 def operation(i, z):
     if i//2 == 0:
         x = z[-1]

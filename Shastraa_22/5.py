@@ -1,3 +1,5 @@
+#https://codeforces.com/gym/403917/problem/E
+
 t = int(input())
 for i in range(t):
     n = int(input())

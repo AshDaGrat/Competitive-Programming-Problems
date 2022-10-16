@@ -1,3 +1,5 @@
+#https://codeforces.com/gym/403917/problem/F
+
 t = int(input())
 for i in range(t):
     n, b = [int(i) for i in input().split()]
