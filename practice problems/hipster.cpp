@@ -8,7 +8,9 @@ int main(){
     int count = 0;
     int b = 0;
     int count2 = 0;
+
     cin >> a >> b;
+    
     if (a == b){
         count = a; 
         count2 = 0;
